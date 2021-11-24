@@ -10,6 +10,7 @@ Persuing B.Tech in V.R Siddhartha Engg College in information technology.
 
 - [x] "Completed"
 - [ ] https://c.tenor.com/1Z_kaktg2tgAAAAM/anna-excited.gif
+- [ ] https://i.pinimg.com/originals/7d/1c/13/7d1c135ab6a1f62f60875842c585b5c0.gif
 - [ ] Add delight to the experience when all tasks are complete :tada
 
 name|Roll_No
